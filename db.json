@@ -1,0 +1,36 @@
+{
+  "movies": [
+    {
+      "title": "Animais Fantásticos",
+      "description": "O excêntrico magizoologista Newt Scamander (Eddie Redmayne) chega à cidade de Nova York levando com muito zelo sua preciosa maleta, um objeto mágico onde ele carrega fantásticos animais do mundo da magia que coletou durante as suas viagens. Em meio a comunidade bruxa norte-americana, que teme muito mais a exposição aos trouxas do que seus colegas ingleses, Newt precisará usar todas suas habilidades e conhecimentos para capturar uma variedade de criaturas que acabam fugindo.",
+      "platform": "netflix",
+      "note": 4,
+      "watched": 0,
+      "id": 1
+    },
+    {
+      "title": "Star Wars",
+      "description": "Em Star Wars: A Ascensão Skywalker, com o retorno do Imperador Palpatine (Ian McDiarmid), todos voltam a temer seu poder. Assim, a Resistência toma a frente da batalha que ditará os rumos da galáxia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir de sua complexa ligação com Kylo Ren (Adam Driver), que também se encontra em conflito pela Força.\n",
+      "platform": "disneyPlus",
+      "note": 2,
+      "watched": 1,
+      "id": 2
+    },
+    {
+      "title": "Epicentro - 24h em Wuhan | Documentário",
+      "description": "Neste documentário produzido pela CGTN - China Global Television Network, saiba mais sobre o início da crise de saúde pública na China que se transformou numa pandemia: o COVID-19. ",
+      "platform": "youtube",
+      "note": 3,
+      "watched": 1,
+      "id": 3
+    },
+    {
+      "title": "How I Met Your Mother",
+      "description": "Em 2030, o arquiteto Ted Mosby (Josh Radnor) conta a história sobre como conheceu a mãe dos seus filhos. Ele volta no tempo para 2005, relembrando suas aventuras amorosas em Nova York e a busca pela mulher dos seus sonhos. Ao longo do anos, Ted aproveita para falar a jornada dos seus amigos: o advogado Marshall Eriksen (Jason Segel), a professora Lily Aldrin (Alyson Hannigan), a jornalista Robin Scherbatsky (Cobie Smulders) e o mulherengo convicto Barney Stinson (Neil Patrick Harris).",
+      "platform": "amazonPrime",
+      "note": 5,
+      "watched": 0,
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+.navContainer{
+  height: 5.7rem;
+  padding: 1.2rem 5rem;  
+  background: var(--blue-500);
+ }
+ 
+ .containerChildren {
+    min-height: 100vh;
+    padding: 0 5rem;
+    background: var(--background);
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+
+  
+  
+  
+  
+    
