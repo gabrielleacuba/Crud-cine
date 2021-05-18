@@ -57,7 +57,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="https://br.linkedin.com/in/gabriellealmeidacuba">
         <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFy0PrYXpnocw/profile-displayphoto-shrink_200_200/0/1616955634763?e=1625097600&v=beta&t=E-pfEzGasnBKGq1iVFKJbOsd-bjDMvRVNq84crGEBOo" width="100px;" alt="Foto do Gabrielle no Linkedin"/><br>
         <sub>
-          <b>Gabrielle Cubar</b>
+          <b>Gabrielle Cuba</b>
         </sub>
       </a>
     </td>
